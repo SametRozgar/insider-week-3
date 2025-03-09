@@ -1,0 +1,12 @@
+[submodule "Json-Product-Listing"]
+	path = Json-Product-Listing
+	url = https://github.com/SametRozgar/Json-Product-Listing.git
+[submodule "JQuery-Animated-Submit-Form-insider"]
+	path = JQuery-Animated-Submit-Form-insider
+	url = https://github.com/SametRozgar/JQuery-Animated-Submit-Form-insider.git
+[submodule "insider-ajax-json"]
+	path = insider-ajax-json
+	url = https://github.com/SametRozgar/insider-ajax-json.git
+[submodule "insider-todolist-JQuery-version"]
+	path = insider-todolist-JQuery-version
+	url = https://github.com/SametRozgar/insider-todolist-JQuery-version.git
